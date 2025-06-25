@@ -5,7 +5,6 @@ MOUNTAINPEAK INSURANCE - PROGRESSIVE DATA SHARING DEMO
 Demo:    MountainPeak Insurance → Alpine Risk Brokers Data Sharing
 Purpose: Complete demonstration: Build → Share → Protect
 Flow:    Data Integration → Risk Analytics → Data Sharing → Progressive Governance
-Duration: 35 minutes (7+5+8+15)
 
 Demo Narrative:
 "Today I'll show you how MountainPeak Insurance built their risk analytics on Snowflake,
