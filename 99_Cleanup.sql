@@ -165,24 +165,3 @@ SHOW SHARES LIKE 'MOUNTAINPEAK%';
 
 -- Check for remaining integrations
 SHOW INTEGRATIONS LIKE '%INSURANCE%';
-
-/*
-================================================================================
-✅ CLEANUP COMPLETE!
-================================================================================
-🎉 All MountainPeak Insurance demo artifacts have been removed
-🧹 Environment is now clean and ready for future demos
-📝 If you see any remaining objects above, please remove them manually
-
-💡 Tips for future demos:
-   • Always run setup script before demo
-   • Use this cleanup script after each demo
-   • Consider using separate demo accounts for isolation
-================================================================================
-*/
-
--- Final message
-SELECT 
-    '🎉 MountainPeak Insurance Demo Cleanup Complete!' AS message,
-    '🧹 All artifacts have been removed from your environment' AS status,
-    '💡 Ready for your next amazing Snowflake demo!' AS next_steps; 
